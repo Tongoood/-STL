@@ -1,0 +1,58 @@
+﻿  RB_Tree.cpp
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,83): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,102): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,121): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,83): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,102): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,121): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(6,45): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(8,19): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(10,32): error C3861: 't': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(6,45): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(8,19): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(10,32): error C2065: 't': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(30,22): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(34,34): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(52,33): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(30,22): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(34,34): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(52,33): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(81,43): error C2065: 'temmp': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(81,52): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(96,32): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(96,66): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(101,37): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(101,71): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(127,37): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(127,71): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(151,37): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(151,71): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(187,3): error C2760: syntax error: '}' was unexpected here; expected ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(213,41): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(213,41): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(330,21): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(330,21): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(359,21): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(359,21): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(385,33): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(385,33): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(401,27): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(403,24): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(404,26): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(405,25): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(406,26): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(407,19): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(401,27): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(403,24): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(404,26): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(405,25): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(406,26): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree.cpp(407,19): error C2065: 'NULL': undeclared identifier
+  RB_Tree_Node.cpp
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,83): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,102): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,121): error C3861: 'NULL': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,83): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,102): error C2065: 'NULL': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\MY_RB_Tree\RB_Tree_Node.cpp(4,121): error C2065: 'NULL': undeclared identifier
+  Generating Code...

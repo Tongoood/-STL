@@ -1,0 +1,10 @@
+﻿  queue_BaseDeque.h
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(3,25): error C3646: '__STL_NULL_TMPL_ARGS': unknown override specifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(22,2): message : see reference to class template instantiation 'queue<T,Sequence>' being compiled
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(3,46): error C2059: syntax error: 'const'
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(3,77): error C2238: unexpected token(s) preceding ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(4,24): error C3646: '__STL_NULL_TMPL_ARGS': unknown override specifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(4,45): error C2059: syntax error: 'const'
+C:\Users\hic8szh\My_Test\STL_test\Project1\queue\queue_BaseDeque.h(4,76): error C2238: unexpected token(s) preceding ';'
+  queue_test.cpp
+  Generating Code...

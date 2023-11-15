@@ -1,0 +1,2 @@
+﻿  5hashset-test.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822\include\hash_set(22,1): fatal  error C1189: #error:  <hash_set> is deprecated and will be REMOVED. Please use <unordered_set>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to suppress this error.

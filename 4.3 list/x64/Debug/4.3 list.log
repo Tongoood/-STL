@@ -1,0 +1,131 @@
+﻿  4List_test.cpp
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\4List_test.cpp(6,1): fatal  error C1075: '{': no matching token found
+  DataStruct_Of_List.h
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(5,21): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(11,2): message : see reference to class template instantiation 'list<t,alloc>' being compiled
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(5,34): error C2238: unexpected token(s) preceding ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(7,19): error C2143: syntax error: missing ';' before '*'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(7,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(10,12): error C3646: 'node': unknown override specifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(14,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(14,10): error C2146: syntax error: missing ';' before identifier 'begin'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(14,18): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(14,18): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(15,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(15,1): error C2086: 'int iterator': redefinition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(14,1): message : see declaration of 'iterator'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(15,10): error C2146: syntax error: missing ';' before identifier 'end'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(15,16): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(15,16): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(17,6): error C2270: 'empty': modifiers not allowed on nonmember functions
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(17,29): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(17,43): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(18,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(18,11): error C2146: syntax error: missing ';' before identifier 'size'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(18,24): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(18,24): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(24,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(24,11): error C2146: syntax error: missing ';' before identifier 'front'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(24,19): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(24,19): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(25,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(25,1): error C2086: 'int reference': redefinition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(24,1): message : see declaration of 'reference'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(25,11): error C2146: syntax error: missing ';' before identifier 'back'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(25,18): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\DataStruct_Of_List.h(25,18): error C2447: '{': missing function header (old-style formal list?)
+  List_Element_Operations.h
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(3,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(3,24): error C2143: syntax error: missing ',' before '&'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(3,40): error C3861: 'begin': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(3,49): error C2065: 'x': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(3,33): error C3861: 'insert': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(5,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(5,23): error C2143: syntax error: missing ',' before '&'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(5,37): error C3861: 'end': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(5,44): error C2065: 'x': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(5,30): error C3861: 'insert': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(8,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(8,10): error C2146: syntax error: missing ';' before identifier 'erase'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(8,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(8,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(18,26): error C3861: 'begin': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(18,20): error C3861: 'erase': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(21,11): error C2146: syntax error: missing ';' before identifier 'tmp'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(21,11): error C2065: 'tmp': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(21,17): error C3861: 'end': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(22,10): error C2065: 'tmp': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(22,2): error C3861: 'erase': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(27,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(27,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(27,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(27,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(27,22): error C2039: 'clear': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(28,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(28,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,6): error C2374: 'list': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,22): error C2039: 'remove': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,45): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(42,45): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,6): error C2374: 'list': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,22): error C2039: 'unique': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,31): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(55,31): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(74,1): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(74,1): error C2059: syntax error: 'protected'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(76,7): error C2182: 'transfer': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(76,25): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(76,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(76,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(93,1): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(93,1): error C2059: syntax error: 'public'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(95,7): error C2182: 'splice': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(95,23): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(95,42): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(95,42): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(101,7): error C2182: 'splice': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(101,7): error C2374: 'splice': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(101,23): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(101,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(101,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(112,7): error C2182: 'splice': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(112,7): error C2374: 'splice': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(112,23): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(112,71): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(112,71): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,6): error C2374: 'list': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,22): error C2039: 'merge': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,47): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(120,47): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,6): error C2374: 'list': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,22): error C2039: 'reverse': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,32): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(141,32): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,10): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,6): error C2182: 'list': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,6): error C2374: 'list': redefinition; multiple initialization
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,10): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,22): error C2039: 'sort': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,29): error C2143: syntax error: missing ';' before '{'
+C:\Users\hic8szh\My_Test\STL_test\Project1\4.3 list\List_Element_Operations.h(159,29): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

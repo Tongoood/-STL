@@ -1,0 +1,65 @@
+﻿  deque_iterator.h
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(17,37): error C3646: 'iterator_category': unknown override specifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(404,2): message : see reference to class template instantiation '__deque_iterator<T,Ref,Ptr,BufSiz>' being compiled
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(22,20): error C3646: 'difference_type': unknown override specifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(22,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(48,18): error C2143: syntax error: missing ';' before '-'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(48,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(76,19): error C2061: syntax error: identifier 'differenxe_type'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(76,8): error C2805: binary 'operator +=' has too few parameters
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(76,1): error C2333: '__deque_iterator<T,Ref,Ptr,BufSiz>::operator +=': error in function declaration; skipping function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(94,18): error C2061: syntax error: identifier 'difference_type'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(99,17): error C2143: syntax error: missing ';' before '+'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(99,8): error C2365: '__deque_iterator<T,Ref,Ptr,BufSiz>::operator -': redefinition; previous definition was 'member function'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(48,18): message : see declaration of '__deque_iterator<T,Ref,Ptr,BufSiz>::operator -'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(99,38): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(101,19): error C2061: syntax error: identifier 'difference_type'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(101,8): error C2805: binary 'operator -=' has too few parameters
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(101,1): error C2333: '__deque_iterator<T,Ref,Ptr,BufSiz>::operator -=': error in function declaration; skipping function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(108,23): error C2061: syntax error: identifier 'difference_type'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(108,12): error C2805: binary 'operator [' has too few parameters
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(108,1): error C2333: '__deque_iterator<T,Ref,Ptr,BufSiz>::operator []': error in function declaration; skipping function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,12): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,12): error C2143: syntax error: missing ';' before '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,7): error C2182: 'deque': this use of 'void' is not valid
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,2): error C2238: unexpected token(s) preceding ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,12): error C2059: syntax error: '<'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,33): error C2039: 'push_back_aux': is not a member of '`global namespace''
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(135,68): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(149,3): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(149,3): error C2059: syntax error: 'if'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(149,32): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(153,3): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(153,3): error C2059: syntax error: 'else'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(154,21): error C2238: unexpected token(s) preceding ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(37,3): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(37,3): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(49,44): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(49,44): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(55,13): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(55,13): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(63,13): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(63,13): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(72,10): error C3861: 'tmp': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(72,10): error C2065: 'tmp': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(96,17): error C3861: 'n': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(96,17): error C2065: 'n': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(114,11): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(114,46): error C3861: 'node': identifier not found
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(114,11): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(114,46): error C2065: 'node': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(122,7): error C2065: 'finish': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(122,21): error C2065: 'finish': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(124,14): error C2065: 'finish': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(125,6): error C2065: 'finish': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,4): error C2065: 'push': undeclared identifier
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,8): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,8): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,8): error C3878: syntax error: unexpected token ')' following 'statement'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,8): error C3878: syntax error: unexpected token ')' following 'selection_statement'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(128,8): message : error recovery skipped: ')'
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(161,10): error C2988: unrecognizable template declaration/definition
+C:\Users\hic8szh\My_Test\STL_test\Project1\deque\deque_iterator.h(161,10): error C2143: syntax error: missing ';' before ''template<''
+  deque_last_test.cpp
+  Generating Code...
