@@ -19,7 +19,13 @@ inline void __push_heap_aux(RandonAccessIterator first, RandonAccessIterator las
 template<class RandomAccessIterator, class Distance, class T>
 void __push_heap(RandomAccessIterator first, Distance holeIndex, Distance topIndex, T value) {
 	Disrance parent = (holeIndex - 1) / 2;   //找出父节点
-	while (holeIndex > topIndex && *(first + parent) < value) {
+	while (holeIndex > topIndex && *(first + parent) < value) {  //父节点的值小于新值，
+		                                                          //若此处的比较变为使用函数对象comp的方式实现
+																  //应该默认comp为less
+																  // 即 父节点 less value 此时，新值向上传递
+																  // 最后产生大顶堆
+																  // 若comp 为 more
+																  // 产生小顶堆
 		//当商未达到顶端，且父节点小于新值（于是不符合heap的次序特性）
 		//由于以上使用operator<, 可知STL heap是一种max——heap
 		*(first + holeIndex) = *(first + parent);  //令洞值为其父值
